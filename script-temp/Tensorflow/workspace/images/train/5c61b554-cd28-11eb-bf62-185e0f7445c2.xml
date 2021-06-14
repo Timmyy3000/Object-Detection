@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>5c61b554-cd28-11eb-bf62-185e0f7445c2.jpg</filename>
+	<path>C:\Users\TIMI.PC\Documents\Programming\Python\Projects\ObjectDetection\script-temp\Tensorflow\workspace\images\allimages\5c61b554-cd28-11eb-bf62-185e0f7445c2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>241</ymin>
+			<xmax>446</xmax>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

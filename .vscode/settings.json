@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\TIMI.PC\\anaconda3\\envs\\obj\\python.exe"
+    "python.pythonPath": "C:\\Users\\TIMI.PC\\anaconda3\\envs\\obj\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
