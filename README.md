@@ -1,3 +1,2 @@
-"# Object-Detection" 
+"# Real Time Face Mask Detection" 
 
-Part of Tensorlow's ObjectDetectionApi
